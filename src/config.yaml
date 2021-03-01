@@ -1,14 +1,9 @@
 title: Dog Images Classifier
 description: Classify Emotions Of  Dog  images using deep learning
 about:
-
 it still in under development
-
-  
-
-
-
-code: https://github.com/npatta01/web-deep-learning-classifier
+code:
+https://github.com/npatta01/web-deep-learning-classifier
 
 sampleImages:
   - name: Happy
