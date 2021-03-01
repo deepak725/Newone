@@ -1,14 +1,18 @@
 title: Dog Images Classifier
 description: Classify Emotions Of  Dog  images using deep learning
 about:
+
 it still in under development
-code:
-https://github.com/npatta01/web-deep-learning-classifier
+code: https://github.com/deepak725/Newone
 
 sampleImages:
-  - name: Happy
-    url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Lasagne_-_stonesoup.jpg
+  - name: Angry
+    url: https://www.dropbox.com/s/mojkjdx6co0up2v/angry_0_8667.jpeg?dl=0
   - name: crying
-    url: https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg
+    url: https://www.dropbox.com/s/zpd1xigyvw9kudw/cry_0_7147.jpeg?dl=0
   - name: happy
-    url: https://upload.wikimedia.org/wikipedia/commons/5/5b/Waffles_with_Strawberries.jpg
+    url: https://www.dropbox.com/s/sl5phqzay12j1g7/3.jpg?dl=0
+  - name: neutral
+    url: https://www.dropbox.com/s/1de3khr1gz1z8ud/neutral_0_7347.jpeg?dl=0
+  - name: sad
+    url: https://www.dropbox.com/s/sgaxeoh7mscnp9x/45.jpg?dl=0 
